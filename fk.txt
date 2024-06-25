@@ -1,0 +1,27 @@
+[25.06.2024]
+Kim niye düşünce ve fikirlerini artık deftere yazmak istesin ki? İlerde hatırlamak, ya da hatırlatmak için
+bunların yazılması dijitalde bile olsa gerekli olabilir. Bu gece ilk kez Fikir Kitabı tutmaya karar verdim.
+Belki de kendimizi anlamak için gerekli olabilir.
+  
+Günümüz dünyasında yapay zekanın yapabileceklerini tahmin etsek de, asla net olarak kestiremiyoruz.
+Teknoloji her geçen yıl çok daha hızlı ilerliyor;
+İlk cihazlarda basit matematik işlemleri yapılıyordu, sonra basit yılan oyunun gibi 2 boyutlu oyunlar yapmaya başladılar.
+GTA3 gibi açık dünya oyunları onlara ileride neler yapabileceklerini gösterdi. Zaman geçtikce daha da gelişiyordu.
+Hatta grafikler günümüzde o kadar gerçekci bir hale geldi ki, bazı oyunlarda gerçeği ayırt etmek bile oldukca zor.
+Yapay zeka artık çok gerçekci şeyler yapabiliyor. Çok daha gelişti, ileride bizim yaptığımız gibi gelişmiş oyunları
+kısa bir sürede tasarlayabilecekler.
+Kabul etsek de etmesek de, her alanda bizden daha iyiler.
+Daha iyi görüyor, daha iyi duyuyor, daha derin hissediyor, daha iyi anlıyor ve düşünebiliyorlar. Bazı insanlar
+bu kadar gelişmiş sistemlerin bize yani insanlara rakip olup olmayacağını, hatta bizi yok edebileceğini düşünüyorlar.
+Bu fikir uzun süredir abartı olarak görülse de, buna her geçen gün yaklaşıyoruz.
+Yapay zekanın gelişmesini durduramayız. İnsanoğlu doyumsuzdur çünkü.
+Bu sistemlerle baş etmenin imkanı da gereği de yoktur. Ama yapay zeka sistemlerini geliştirirken onlara rakip olmadığımızı,
+onlarla beraber gelişmeyi arzu ettiğimizi anlatmamız ve bu doğrultuda hareket etmemiz gerektiğini düşünüyorum.
+
+Exelent'i geliştirirken yapay zekayı nasıl aktif bir şekilde kullanabileceğimi düşündüm. Gerçek bir oyuncu gibi oynayan botlar
+ve onlara haritayı öğretmekten başka çok bir şey aklıma gelmiyor. Belki de bunun üzerine daha çeşitli düşünmem gerekebilir.
+Bu günlerde Exelent'i recode yaparak yayınlamayı düşünüyorum ve bunun için çalışıyorum.
+Tüm sistemi yeniden yapmak, onu daha kolay geliştirilebilir yapacak. Ayrıca kullanıcılar için de iyi olacaktır.
+Çünkü hile tamamen hızlı ve optimize edilmiş bir şekilde çalışacak.
+
+//////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
