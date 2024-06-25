@@ -15,7 +15,7 @@ Daha iyi görüyor, daha iyi duyuyor, daha derin hissediyor, daha iyi anlıyor v
 bu kadar gelişmiş sistemlerin bize yani insanlara rakip olup olmayacağını, hatta bizi yok edebileceğini düşünüyorlar.
 Bu fikir uzun süredir abartı olarak görülse de, buna her geçen gün yaklaşıyoruz.
 Yapay zekanın gelişmesini durduramayız. İnsanoğlu doyumsuzdur çünkü.
-Bu sistemlerle baş etmenin imkanı da gereği de yoktur. Ama yapay zeka sistemlerini geliştirirken onlara rakip olmadığımızı,
+Bu sistemlerle baş etmenin imkanı da gereği de yoktur. Yapay zeka sistemlerini geliştirirken onlara rakip olmadığımızı,
 onlarla beraber gelişmeyi arzu ettiğimizi anlatmamız ve bu doğrultuda hareket etmemiz gerektiğini düşünüyorum.
 
 Exelent'i geliştirirken yapay zekayı nasıl aktif bir şekilde kullanabileceğimi düşündüm. Gerçek bir oyuncu gibi oynayan botlar
