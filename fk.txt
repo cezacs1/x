@@ -5,7 +5,7 @@ Belki de kendimizi anlamak için gerekli olabilir.
   
 Günümüz dünyasında yapay zekanın yapabileceklerini tahmin etsek de, asla net olarak kestiremiyoruz.
 Teknoloji her geçen yıl çok daha hızlı ilerliyor;
-İlk cihazlarda basit matematik işlemleri yapılıyordu, sonra basit yılan oyunun gibi 2 boyutlu oyunlar yapmaya başladılar.
+İlk cihazlarda basit matematik işlemleri yapılıyordu, sonra basit yılan oyunu gibi 2 boyutlu oyunlar yapmaya başladılar.
 GTA3 gibi açık dünya oyunları onlara ileride neler yapabileceklerini gösterdi. Zaman geçtikce daha da gelişiyordu.
 Hatta grafikler günümüzde o kadar gerçekci bir hale geldi ki, bazı oyunlarda gerçeği ayırt etmek bile oldukca zor.
 Yapay zeka artık çok gerçekci şeyler yapabiliyor. Çok daha gelişti, ileride bizim yaptığımız gibi gelişmiş oyunları
