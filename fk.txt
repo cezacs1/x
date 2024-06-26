@@ -48,9 +48,8 @@ Evet bu yüzden olduğu gibi yazıyorum..
 Bu gün CS2'ye gelen güncellemede yeni haritalar çeşitli modlara dağıtılarak eklendi.
 Yeni gelen haritaların optimizasyonu çok kötü ya da çok fazla detay olduğu için FPS düşüşü yaşıyoruz. Artık kasıtlı
 yaptıklarını düşünmeye başladım.
-Benim için berbat bir güncelleme oldu, en azından Exelent güncellemesi kötü olmayacak;
 Bu hafta Exelent güncellemesi yayınlayacağım. Özellikleri kullanıcılara daha iyi ve hızlı çalışacak bir şekilde sunmak
 istiyorum. Dahası, önceden yapılmamışı yapmak istiyorum, ama bunu yapmak için önce düşünülmeyen bir şeyi düşünmek gerekiyor.
-
+Özetle, benim için berbat bir güncelleme oldu. En azından Exelent güncellemesi kötü olmayacak;
 
 
