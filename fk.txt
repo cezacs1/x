@@ -44,7 +44,8 @@ CS2'nin sistemi eğer vaade uzun ise neredeyse kesin olarak parayı katlamayı g
 
 [26.06.2024]
 Ne de olsa fikirlere mermi işlemez değil mi? :)
-Evet bu yüzden olduğu gibi yazıyorum. Bu gün CS2'ye gelen güncellemede yeni haritalar çeşitli modlara dağıtılarak eklendi.
+Evet bu yüzden olduğu gibi yazıyorum..
+Bu gün CS2'ye gelen güncellemede yeni haritalar çeşitli modlara dağıtılarak eklendi.
 Yeni gelen haritaların optimizasyonu çok kötü ya da çok fazla detay olduğu için FPS düşüşü yaşıyoruz. Artık kasıtlı
 yaptıklarını düşünmeye başladım.
 Benim için berbat bir güncelleme oldu, en azından Exelent güncellemesi kötü olmayacak;
