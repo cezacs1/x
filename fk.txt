@@ -84,5 +84,22 @@ Aslında konu vergi alınması falan değil, döviz çıkmasın diye uğraşıyo
 Bu çok yüksek bir ihtimalle devlet döviz rezervlerini iyice yükseltmesinden sonra, büyük bir devalüasyon ile sonuçlanacak.
 Sözde zenginden alıp fakire verirler ama bu yaptıklarından daha büyük faydaları dokunamaz zenginlere.
 
+[29.06.2024]
+Basit ama uzun bir araç; Exelent.
+Exelent'i geliştirmeyi sevsem de birçok şey uzun sürüyor, visible check'in spottedbymask yerine vpk parsing ile yapılması
+olağanüstü özelliklerin yapılmasına fırsat tanıyabilir. Maalesef şu anda bazı engeller var ama çözümünü biliyorum.
+Bunun için, C# dilinde doğru bir şekilde kullanılamayan kodları C++ dilinde yazıp çağırmak mantıklı olabilir.
+
+Exelent bir amaç değil, araç. Exelent içindeki amacım, tüm kullanıcıların hesabının güvenliğini sağlamak,
+güvenlikleri için ne gerekiyorsa onu yapmak olsa da. Projelerimin genel amacını kestiremiyorum. Ben bile bilmiyorum.
+
+Para kazanmak için yapıyorum desem, değil. Mütevazı olmak mantıksız, zaten param var.
+Saygı ya da itibar için desem, değil. İnsanların söylediklerini fazla umursamıyorum.
+Beni Exelent ile öne çıkarmaları hoşuma gitse de, genellikle rahatsız edici oluyor. Neden bilmiyorum.
+İyi biri olmaya çalışmıyorum zaten, anladığım kadarıyla mütevazı insanların önü pek açık olmuyor. 
+
+Nedenin her zaman bir sebebi vardır. Neden bilmiyorum ama sebebi bir hırs, heves, istek ve başarma arzusudur.
+Tüm bunlar Exelent'in türkiyenin en değerli hile hesabında, hesaplarında açılmasını istememden kaynaklıdır.
+Exelent'i yapma amacım tam olarak budur. Exelent ise, bunların sağlanacağı bir araçtır.
 
 
