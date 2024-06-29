@@ -91,14 +91,16 @@ olağanüstü özelliklerin yapılmasına fırsat tanıyabilir. Maalesef şu and
 Bunun için, C# dilinde doğru bir şekilde kullanılamayan kodları C++ dilinde yazıp çağırmak mantıklı olabilir.
 
 Exelent bir amaç değil, araç. Exelent içindeki amacım, tüm kullanıcıların hesabının güvenliğini sağlamak,
-güvenlikleri için ne gerekiyorsa onu yapmak olsa da. Projelerimin genel amacını kestiremiyorum. Ben bile bilmiyorum.
+en gelişmiş ve çeşitli özellikleri sunarken, güvenlikleri için ne gerekiyorsa onu yapmak olsa da,
+projelerimin genel amacını net olarak kestiremiyorum. Ben bile tam olarak bilmiyorum.
 
 Para kazanmak için yapıyorum desem, değil. Mütevazı olmak mantıksız, zaten param var.
 Saygı ya da itibar için desem, değil. İnsanların söylediklerini fazla umursamıyorum.
 Beni Exelent ile öne çıkarmaları hoşuma gitse de, genellikle rahatsız edici oluyor. Neden bilmiyorum.
 İyi biri olmaya çalışmıyorum zaten, anladığım kadarıyla mütevazı insanların önü pek açık olmuyor. 
 
-Nedenin her zaman bir sebebi vardır. Neden bilmiyorum ama sebebi bir hırs, heves, istek ve başarma arzusudur.
+Ancak biliyorum ki, nedenin her zaman bir sebebi vardır.
+Neden bilmiyorum ama sebebi bir hırs, heves, istek ve başarma arzusudur.
 Tüm bunlar Exelent'in türkiyenin en değerli hile hesabında, hesaplarında açılmasını istememden kaynaklıdır.
 Exelent'i yapma amacım tam olarak budur. Exelent ise, bunların sağlanacağı bir araçtır.
 
