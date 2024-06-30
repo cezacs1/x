@@ -1,9 +1,9 @@
 [25.06.2024]
-###//Kim niye düşünce ve fikirlerini artık deftere yazmak istesin ki? İlerde hatırlamak, ya da hatırlatmak için
-###bunların yazılması dijitalde bile olsa gerekli olabilir. Bu gece ilk kez Fikir Kitabı tutmaya karar verdim.
-###Belki de kendimizi anlamak için gerekli olabilir.
+Kim niye düşünce ve fikirlerini artık deftere yazmak istesin ki? İlerde hatırlamak, ya da hatırlatmak için
+bunların yazılması dijitalde bile olsa gerekli olabilir. Bu gece ilk kez Fikir Kitabı tutmaya karar verdim.
+Belki de kendimizi anlamak için gerekli olabilir.
   
-####Günümüz dünyasında yapay zekanın yapabileceklerini tahmin etsek de, asla net olarak kestiremiyoruz.
+Günümüz dünyasında yapay zekanın yapabileceklerini tahmin etsek de, asla net olarak kestiremiyoruz.
 Teknoloji her geçen yıl çok daha hızlı ilerliyor;
 İlk cihazlarda basit matematik işlemleri yapılıyordu, sonra basit yılan oyunu gibi 2 boyutlu oyunlar yapmaya başladılar.
 GTA3 gibi açık dünya oyunları onlara ileride neler yapabileceklerini gösterdi. Zaman geçtikce daha da gelişiyordu.
@@ -43,7 +43,7 @@ CS2'nin sistemi eğer vaade uzun ise neredeyse kesin olarak parayı katlamayı g
 
 
 [26.06.2024]
-####Ne de olsa fikirlere mermi işlemez değil mi? :)
+Ne de olsa fikirlere mermi işlemez değil mi? :)
 Evet bu yüzden olduğu gibi yazıyorum..
 Bu gün CS2'ye gelen güncellemede yeni haritalar çeşitli modlara dağıtılarak eklendi.
 Yeni gelen haritaların optimizasyonu çok kötü ya da çok fazla detay olduğu için FPS düşüşü yaşıyoruz. Artık kasıtlı
@@ -53,7 +53,7 @@ istiyorum. Dahası, önceden yapılmamışı yapmak istiyorum, ama bunu yapmak i
 Özetle, benim için berbat bir güncelleme oldu. En azından Exelent güncellemesi kötü olmayacak.
 
 [27.06.2024]
-####Borsada hisleriyle hareket edenler kumarbazlardır.
+Borsada hisleriyle hareket edenler kumarbazlardır.
 Dün borsada aldığım TürkTraktör hissesi, sadece 5 dakikada 923tl'den 912tl'ye düştü.
 Bu alışılmış bir şey değil. Değer yatırımı yapmak için uzun vaadeli düşünmek ve uygulamak genellikle kazandırıyor.
 Bu kanıtlanmış bir şey. Kısa korku filmlerinde bile bu kadar korktuğumu hatırlamıyorum. Her şey üstüme üstüme geliyordu.
@@ -85,7 +85,7 @@ Bu çok yüksek bir ihtimalle devlet döviz rezervlerini iyice yükseltmesinden 
 Sözde zenginden alıp fakire verirler ama bu yaptıklarından daha büyük faydaları dokunamaz zenginlere.
 
 [29.06.2024]
-####Basit ama uzun bir araç; Exelent.
+Basit ama uzun bir araç; Exelent.
 Exelent'i geliştirmeyi sevsem de birçok şey uzun sürüyor, visible check'in spottedbymask yerine vpk parsing ile yapılması
 olağanüstü özelliklerin yapılmasına fırsat tanıyabilir. Maalesef şu anda bazı engeller var ama çözümünü biliyorum.
 Bunun için, C# dilinde doğru bir şekilde kullanılamayan kodları C++ dilinde yazıp çağırmak mantıklı olabilir.
