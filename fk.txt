@@ -24,7 +24,7 @@ Bu günlerde Exelent'i recode yaparak yayınlamayı düşünüyorum ve bunun iç
 Tüm sistemi yeniden yapmak, onu daha kolay geliştirilebilir yapacak. Ayrıca kullanıcılar için de iyi olacaktır.
 Çünkü hile tamamen hızlı ve optimize edilmiş bir şekilde çalışacak.
 
-####Zaman, kumardan daha iyi bir para kazanma aracıdır.
+Zaman, kumardan daha iyi bir para kazanma aracıdır.
 Birkaç aydır borsada yüksek temettü ödeyen şirketlere yatırım yapıyorum.
 Bana yüksek temettülü şirketler daha cazip geliyor. Bunun birkaç nedeni var;
 Yüksek faiz oranında (şu anda %45 merkez bankası / % 55 - 60 diğerleri) borçlanmak istemeyen şirketler, hisselerini satıp
