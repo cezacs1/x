@@ -133,11 +133,7 @@ ya da vergi indirimi için vakıflarını kullanmadıklarını düşünmek, bana
 
 Değer = arz & talep.
 Bu konu hakkında uzun bir süredir düşünüyorum, ancak kendimi henüz haksız çıkaramadım.
-Herhangi bir şeyin fiyatını gerçekten ona olan arz ve talep belirliyor;
-Örneğin su, şu anda dünyada o kadar çok su bulunuyor ki, temel ihtiyaçlardan birine dahil olarak suya olan talep
-çok olsa bile olsa arzın yanında çok az kalıyor. Bu nedenle de çok ucuz fiyatlanıyor.
-Bir de elmasa örnek verebilirim. Arzı çok az, çok güzel göründüğü için de talebi çok yüksek.
-Yani dolayısıyla çok yüksek fiyatlanıyor.
+Herhangi bir şeyin fiyatını gerçekten ona olan arz ve talep belirliyor.
 
 Aslında bana göre, yatırımcıların izlemesi gereken en önemli şeylerden biri de arz ve talep dengesidir.
 Yatırım yapacakları şey her neyse, ona olan arz ve talebi gözetleyerek, öngörülerde bulunarak, gidişatı net olarak
