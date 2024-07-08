@@ -52,6 +52,7 @@ Bu hafta Exelent güncellemesi yayınlayacağım. Özellikleri kullanıcılara d
 istiyorum. Dahası, önceden yapılmamışı yapmak istiyorum, ama bunu yapmak için önce düşünülmeyen bir şeyi düşünmek gerekiyor.
 Özetle, benim için berbat bir güncelleme oldu. En azından Exelent güncellemesi kötü olmayacak.
 
+
 [27.06.2024]
 Borsada hisleriyle hareket edenler kumarbazlardır.
 Dün borsada aldığım TürkTraktör hissesi, sadece 5 dakikada 923tl'den 912tl'ye düştü.
@@ -84,6 +85,7 @@ Aslında konu vergi alınması falan değil, döviz çıkmasın diye uğraşıyo
 Bu çok yüksek bir ihtimalle devlet döviz rezervlerini iyice yükseltmesinden sonra, büyük bir devalüasyon ile sonuçlanacak.
 Sözde zenginden alıp fakire verirler ama bu yaptıklarından daha büyük faydaları dokunamaz zenginlere.
 
+
 [29.06.2024]
 Basit ama uzun bir araç; Exelent.
 Exelent'i geliştirmeyi sevsem de birçok şey uzun sürüyor, visible check'in spottedbymask yerine vpk parsing ile yapılması
@@ -104,6 +106,7 @@ Neden bilmiyorum ama sebebi bir hırs, heves, istek ve başarma arzusudur.
 Tüm bunlar Exelent'in türkiyenin en değerli hile hesabında, hesaplarında açılmasını istememden kaynaklıdır.
 Exelent'i yapma amacım tam olarak budur. Exelent ise, bunların sağlanacağı bir araçtır.
 
+
 [30.06.2024]
 Bu maç değil, satranç.
 Ben Exelent'i uzun vaadeli olarak kurdum ki, kısa vaadeli kayıplar canımızı sıkmasın.
@@ -121,6 +124,7 @@ Diğer hileler de internal ve rage olduğu için Exelent'in kategorisinde değer
 Yeniler Exelent alehinde olan bazı hileleri veya sosyal medyanın etkisi ile hile sahiplerini sevdikleri için
 itiraz etseler de, bu hep olmuştur. Bundan sonra da olacaktır. Bizler kendi yolunuza bakmalıyız.
 Elbette öğrenmek isteyene de, bildiğimizi doğruluğu ile anlatmak şarttır. Aksi takdirde Exelent de uzun vaadeli olmayacaktır.
+
 
 [30.06.2024]
 Hiçbir şov cezasız kalmaz.
@@ -157,4 +161,38 @@ Ben, daha akıllı olan toplumlar ile, daha gelişmiş medeniyetler kurulacağı
 şirketler olacağını da düşünüyorum.
 Bunların oluşturacağı yeni borsa veya piyasaya giren yeni şirketlerin sunduğu fırsatlar ile
 günümüzdekine kıyasla çok daha değerli olacaktır.
+
+
+[8.07.2024]
+Sorunları büyümeden çözmek daha kolaydır. (crax)
+Eskiden beri yanımızda olan ve bazı olaylar yaşadığımız isimlerin, ayrıldıktan uzun süre sonra
+neden geri döndüğüne anlam veremesem de, kalırlarsa olacakları tahmin edebiliyorum. Tecrübelerimle bunu söylüyorum.
+Eğer yaşananların iyi bir şekilde anılması lazımsa, yeni badireler yaşamaya izin vermek yerine görüşmemek şarttır.
+Çünkü kimse değişmeyecek, her şey eskiden olduğu gibi devam edecektir, burada bitmeli.
+
+Yeni visible check sistemi ile ne kadar övünsem azdır, bunu yapmayı yıllardır deniyoruz.
+Yeni Exelent'i erken yayınlamak istedim. Eğer tam hali ile yayınlarsam, yazılımda yeteri kadar test yapamayacağım ve
+hatalarla dolu olacaktır. Ağır ağır ilerleyerek istikrarlı bir şekilde geliştirmek daha mantıklıdır.
+
+VAC sistemi üzerinde yıllardır düşünüyorum. Hakkında çeşitli araştırmalar ve birçok analizler yapıldı.
+Bu sistemi hala türkiyede en iyi bilen kişi olduğumu iddia ediyorum.
+Yeniler veya bilmeyenler, bir gün sistemin düzeleceğini umuyor. Bilmeleri gereken daha acı gerçekler var.
+Hilelerin sebebi olan insanlardan hilelere çözüm gelebilir mi arkadaş?
+Gelmez, çünkü şöyle;
+Oyuna gelen kasalar açıldıkca skinler çok fazla artıyor, pazarda fiyat istikrarını ve dengeyi kurmak önemli.
+Peki artan skin arzını nasıl azaltabiliriz? İşte vac sistemine burada ihtiyaç duyuluyor.
+Bir döngü halinde bu sistem işlemeye devam ediyor.
+Operasyon esnasında VAC sisteminin kötü çalışmasının nedeni de budur.
+Bazıları kimsenin ban yemediğini söylüyor, bu da kesinlikle hatalıdır.
+Eğer hatalı olmasaydı ilk çıkan kasalar, kapsüller ve içindeki eşyaların bu fiyata gelmesi, zamanla erimesi nasıl
+mümkün olabilirdi?
+Borsalarına müdahale etmek istedikleri zaman, vac sistemini tam kapasitede kullanırlar.
+
+Eğer devlet olmasaydı, satın aldığımız her şeyden yüksek miktarda haraç kesen bir mafya veya örgüt olsaydı,
+bunun şu anki hükümetten ne farkı olacaktı?
+1 araba kendine, 2 araba mafyaya.
+4 sigara kendine, 16 dal mafyaya. 
+Sadece yiyecek içecek almak için uykusuz çalışan, öğrenemeyen, düşünemeyen, kendini temel ihtiyaçlarını karşılamaya
+adamış ve dolayısıyla köle bir toplum.
+
 
