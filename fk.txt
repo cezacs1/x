@@ -180,13 +180,13 @@ Yeniler veya bilmeyenler, bir gün sistemin düzeleceğini umuyor. Bilmeleri ger
 Hilelerin sebebi olan insanlardan hilelere çözüm gelebilir mi arkadaş?
 Gelmez, çünkü şöyle;
 Oyuna gelen kasalar açıldıkca skinler çok fazla artıyor, pazarda fiyat istikrarını ve dengeyi kurmak önemli.
-Peki artan skin arzını nasıl azaltabiliriz? İşte vac sistemine burada ihtiyaç duyuluyor.
+Peki artan skin arzını nasıl azaltabiliriz? İşte VAC sistemine burada ihtiyaç duyuluyor.
 Bir döngü halinde bu sistem işlemeye devam ediyor.
 Operasyon esnasında VAC sisteminin kötü çalışmasının nedeni de budur.
 Bazıları kimsenin ban yemediğini söylüyor, bu da kesinlikle hatalıdır.
 Eğer hatalı olmasaydı ilk çıkan kasalar, kapsüller ve içindeki eşyaların bu fiyata gelmesi, zamanla erimesi nasıl
 mümkün olabilirdi?
-Borsalarına müdahale etmek istedikleri zaman, vac sistemini tam kapasitede kullanırlar.
+Borsalarına müdahale etmek istedikleri zaman, VAC sistemini tam kapasitede kullanırlar.
 
 Eğer devlet olmasaydı, satın aldığımız her şeyden yüksek miktarda haraç kesen bir mafya veya örgüt olsaydı,
 bunun şu anki hükümetten ne farkı olacaktı?
